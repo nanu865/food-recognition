@@ -1,0 +1,5 @@
+{
+  "name": "NutriLens AI",
+  "description": "Advanced food image classification and nutritional analysis using Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
